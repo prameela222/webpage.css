@@ -1,0 +1,20 @@
+*navbar{
+    box-shadow: 2px 3px royalblue;
+    width:300vw;
+    height: 7vh;
+    z-index:1;
+    position: fixed;
+    top: 0%;
+    grid-area: navbar;
+    position: fixed;
+    background-color: blueviolet;
+}
+span{
+    color: aliceblue;
+    width: 100vh;
+    margin-left: 4vh;
+    text-shadow: 2px 2px 2px  green;
+}
+
+
+
